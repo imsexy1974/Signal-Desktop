@@ -32,11 +32,11 @@
         "description": "The label that is used for the File menu in the program main menu. The '&' indicates that the following letter will be used as the keyboard 'shortcut letter' for accessing the menu with the Alt-<letter> combination."
     },
     "mainMenuCreateStickers": {
-        "message": "스티커 팩 만들기/업로드",
+        "message": "스티커팩 만들기/등록하기",
         "description": "The label that is used for the Create/upload sticker pack option in the File menu in the program main menu. The '&' indicates that the following letter will be used as the keyboard 'shortcut letter' for accessing the menu with the Alt-<letter> combination."
     },
     "mainMenuEdit": {
-        "message": "수정 (&E)",
+        "message": "편집 (&E)",
         "description": "The label that is used for the Edit menu in the program main menu. The '&' indicates that the following letter will be used as the keyboard 'shortcut letter' for accessing the menu with the Alt-<letter> combination."
     },
     "mainMenuView": {
@@ -44,7 +44,7 @@
         "description": "The label that is used for the View menu in the program main menu. The '&' indicates that the following letter will be used as the keyboard 'shortcut letter' for accessing the menu with the Alt-<letter> combination."
     },
     "mainMenuWindow": {
-        "message": "윈도우 (&W)",
+        "message": "창 (&W)",
         "description": "The label that is used for the Window menu in the program main menu. The '&' indicates that the following letter will be used as the keyboard 'shortcut letter' for accessing the menu with the Alt-<letter> combination."
     },
     "mainMenuHelp": {
@@ -80,7 +80,7 @@
         "description": "Edit menu command to restore previously undone typed text"
     },
     "editMenuCut": {
-        "message": "자르기",
+        "message": "잘라내기",
         "description": "Edit menu command to remove selected text and add it to clipboard"
     },
     "editMenuCopy": {
@@ -128,23 +128,23 @@
         "description": "Window menu command to bring all windows of current application to front"
     },
     "viewMenuResetZoom": {
-        "message": "실제 크기",
+        "message": "확대/축소 초기화",
         "description": "View menu command to go back to the default zoom"
     },
     "viewMenuZoomIn": {
-        "message": "확대",
+        "message": "화면 확대",
         "description": "View menu command to make everything bigger"
     },
     "viewMenuZoomOut": {
-        "message": "축소",
+        "message": "화면 축소",
         "description": "View menu command to make everything smaller"
     },
     "viewMenuToggleFullScreen": {
-        "message": "전체 화면 전환",
+        "message": "전체 화면 전환/닫기",
         "description": "View menu command to enter or leave Full Screen mode"
     },
     "viewMenuToggleDevTools": {
-        "message": "개발자 도구 전환",
+        "message": "개발자 도구 실행",
         "description": "View menu command to show or hide the developer tools"
     },
     "menuSetupAsNewDevice": {
